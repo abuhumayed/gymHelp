@@ -13,7 +13,7 @@ export default function Hero() {
         Get <span className="text-blue-400 font-medium ">inspired</span>, get{' '}
         <span className="text-blue-400 font-medium ">fit</span>, and stay{' '}
         <span className="text-blue-400 font-medium ">healthy</span> with our
-        programme!
+        programmes!
       </p>
       <button className="px-8 py-4 rounded-md border-[2px] border-blue-400 border-solid bg-slate-950 blueShadow duration-200 ">
         <p>Accept & Begin</p>
